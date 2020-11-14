@@ -64,6 +64,10 @@ h2 {
     .title-image-column {
         text-align: center;
     }
+
+    #navbarToggler{
+        text-align: right;
+    }
 }
 
 @media (max-width: 1330px) {
@@ -136,6 +140,9 @@ h2 {
     margin: 25px;
 }
 
+
+
+
 /* Press */
 #press {
     background-color: #FF4C68;
@@ -158,6 +165,7 @@ h2 {
     padding: 2% 2%;
     margin: auto;
 }
+
 
 
 /* Call to action */
